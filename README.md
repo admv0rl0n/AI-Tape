@@ -110,13 +110,14 @@ In theory you can take your project and it lives daily in a Gemini26B model, you
     
 AI Tape in three layers
 Think of a tape like a bootable briefing pack, not a brain dump. We see 75-85% briefs in testing. Which is vastly better than zero.
-┌─────────────────────────────────────────┐
-│  WORKSHOP (100+)                        │  Optional tools — ignore = OK
-├─────────────────────────────────────────┤
-│  PROJECT CONTINUITY                     │  What work continues
-├─────────────────────────────────────────┤
-│  KERNEL 00–99 (Bedrock)                 │  How to stand honestly
-└─────────────────────────────────────────┘
+    
+    ┌─────────────────────────────────────────┐
+    │     WORKSHOP (100+)                        │  Optional tools — ignore = OK
+    ├─────────────────────────────────────────┤
+    │  PROJECT CONTINUITY                     │  What work continues
+    ├─────────────────────────────────────────┤
+    │  KERNEL 00–99 (Bedrock)                 │  How to stand honestly
+    └─────────────────────────────────────────┘
 
 1. Kernel 00–99 (Bedrock) — the floor
 Job: How a successor stands up without hidden rules.
