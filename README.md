@@ -352,6 +352,8 @@ Always include an export_assessment block that truthfully compares what was aske
 Never invent missing content. Declare gaps instead.
 Prefer a clean .md / .ai-tape.md file when possible. If you must stay inline, mark the start and end clearly.
 
+=================================================
+
 Example – Source AI creating a Liferaft
 Markdown# AI_TAPE: Project Phoenix – Session Handoff
 format: AI_TAPE
@@ -416,12 +418,16 @@ Claude finishes a research session and exports a Desk tape.
 Grok loads it, completes Soft Depth, then continues the work and later exports an updated Desk Lite.
 Claude (new session) loads the Desk Lite and keeps going.
 
+============================================
+
 Example B – Recovery after context loss
 
 Long conversation hits context limits.
 Current AI emits a Liferaft.
 User pastes the Liferaft into a fresh chat with the same or different model.
 New AI boots via Soft Depth and resumes with minimal loss.
+
+===========================================
 
 Example C – Multi-model stress test (common real use)
 
@@ -430,6 +436,8 @@ User pastes it into Claude 3.5.
 Claude loads Soft Depth only, ignores Topology, and continues.
 Later, user pastes Claude’s new Desk into Gemini.
 Gemini loads Soft Depth + Desk and adds its own observations.
+
+==========================================
 
 Example D – Rebase / lineage handoff
 
@@ -441,6 +449,8 @@ lineage_summary
 
 AI B loads it, declares any breaks it sees, and either accepts the rebase or produces a corrected Master.
 
+==========================================
+
 Example E – Workshop optional interchange
 
 AI A loads a full Combine + opens Workshop shelf 205 (Resonance) because it needs attention scoring.
@@ -448,6 +458,3 @@ AI A finishes and exports a clean Desk that does not include the Resonance machi
 AI B loads the Desk, never sees or needs 205, and continues successfully.
 (This is considered a success — Workshop was used only when useful and then discarded.)
 
-
-Quick Reference Card
-RoleKey DutyNever DoSource AIEmit honest shape + export_assessmentInvent missing contentDestination AISoft Depth firstClaim identity continuityAny later AIDeclare gaps, remain able to actTreat experimental as ratified
