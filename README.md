@@ -249,7 +249,8 @@ Use the smallest shape that stays honest and useful:
 
 Quick decision guide (in human terms)
 
-Situation,Best shape
+Situation,Best shape TAPES
+
     “Just don’t let me die / get lost” ----------Liferaft
     “Get me useful quickly” ---------------------Desk Lite
     “I need to keep working on this”-------------Desk / Desk Full
