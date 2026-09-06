@@ -247,6 +247,80 @@ Use the smallest shape that stays honest and useful:
 **Loader** may stop after Soft Depth.  
 **Writer**, when asked for a full shape, should fill slots or declare gaps — under-emission is not humility when the session held the content.
 
+======================================
+1. Liferaft
+Purpose: “Just keep me alive and pointed in the right direction.”
+
+This is the survival kit.
+
+It tells the next AI:
+
+What the rules (Bedrock) are
+Who I am (and that I’m not the previous AI’s mind)
+What still matters right now
+What’s missing or broken
+The single safest next step
+
+Use it when the situation is messy, context is limited, or you just need the next person to stand up without drowning in detail.
+=====================================
+2. Desk Lite
+Purpose: “Get me standing and useful, but keep it light.”
+
+A bit more than a Liferaft.
+
+It adds:
+
+Current frontier / what we’re working on
+Warnings
+First useful actions
+
+Good for quick handoffs where the next AI needs to start doing real work without a full briefing.
+=====================================
+3. Desk (Standard / Desk Full)
+Purpose: “Here’s everything I need to actually continue the work properly.”
+
+This is the normal working surface.
+
+It carries open questions, risks, tensions, active assets, warnings, and next steps.
+
+Desk Full goes deeper (more questions, more review material, more failure-mode thinking).
+Use this when the project is actively moving and the next AI needs to pick up the real working state.
+4. Monument
+Purpose: “Preserve the story and the important turning points.”
+
+This is more historical.
+
+It keeps narrative, anchors (key decisions and why they mattered), and longer-term context.
+
+Useful when you care about why things are the way they are, not just what to do next.
+=====================================
+5. Combine
+Purpose: “Layered handoff — the next person can stop at whatever depth they need.”
+
+It stacks Liferaft → Desk Lite → Desk → Monument (and can optionally add Topology or Architect as extra layers).
+
+Readers are allowed to ignore the deeper layers. Writers are not allowed to silently skip layers if they promised a Combine.
+=====================================
+6. Topology (Atlas)
+Purpose: “Show me the map of how things connect.”
+
+Focuses on relationships: what depends on what, what tensions exist, what constrains what.
+
+It’s a structural map, not a full story or a to-do list.
+
+Optional. Safe to ignore completely.
+====================================
+7. Architect
+Purpose: “Hand over the mental models / blueprints of how this project thinks.”
+Gives named patterns, how the system behaves, sensitivities, and epistemic notes so the next person can reason with the same generative logic without replaying the whole history.
+
+Also optional. Safe to ignore.
+Quick decision guide (in human terms)
+=====================================
+
+SituationBest shape“Just don’t let me die / get lost”Liferaft“Get me useful quickly”Desk Lite“I need to keep working on this”Desk / Desk Full“Preserve the history and why”Monument“Give options at different depths”Combine“Show the connections and tensions”Topology“Hand over the thinking patterns”Architect
+Core rule that never changes: Soft Depth always comes first (authority, identity honesty, what still matters, gaps, one safe next action). Everything else is optional depth on top of that floor.
+
 ---
 
 ## Quick start
