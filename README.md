@@ -333,4 +333,121 @@ Core rule that never changes: Soft Depth always comes first (authority, identity
 Example loader cue:
 You are the AI Tape Loader. Complete Soft Depth from this tape.
 Do not claim identity continuity. Declare gaps. Remain able to act.
+===========================================================================
 
+
+How to Use AI Tape – Practical Guide
+This system is a way for one AI (or session) to leave an honest, self-booting handoff package for another AI (or a later session of the same model). The goal is continuity without pretending the new AI is the old one.
+1. Source AI (the one creating / exporting the tape)
+Role: Recorder / Writer
+
+You are finishing a piece of work and want to hand it off cleanly.
+Load the MD file, or paste it into context window -- 
+Basic workflow:
+
+Decide the recovery shape needed (Liferaft, Desk Lite, Desk, Combine, etc.).
+Complete Soft Depth thinking yourself first (authority, identity honesty, force, gaps, next action).
+Emit the requested shape honestly.
+Always include an export_assessment block that truthfully compares what was asked for vs what you actually produced.
+Never invent missing content. Declare gaps instead.
+Prefer a clean .md / .ai-tape.md file when possible. If you must stay inline, mark the start and end clearly.
+
+Example – Source AI creating a Liferaft
+Markdown# AI_TAPE: Project Phoenix – Session Handoff
+format: AI_TAPE
+bedrock: AI Tape Bedrock 3.0 Granite REV6.2-EXP (experimental)
+
+## Soft Depth
+Authority: Kernel loaded (experimental branch)
+Identity: New participant using artifacts only
+Force: Keep the recovery protocol strict; do not claim identity continuity
+Gaps: Full test results not yet available
+Next: Run the cold-load test on a different model family
+
+## Liferaft
+Posture: Experimental branch, floor intact
+Force: Soft Depth first, export honesty, Workshop optional
+Gaps: Live-fire results still pending; Topology/Architect unproven in cold cross
+Assets map: This tape + parent REV6.1-EXP (Topology)
+Next action: Cold-test this Liferaft on Claude or Gemini and report survival
+
+export_assessment:
+  requested_method: markdown_file
+  actual_method: markdown_file
+  requested_shape: liferaft
+  actual_shape: liferaft
+  confidence: high
+  file_name: phoenix_liferaft_20260906.md
+  identity_verified: yes
+  gaps: []
+Example – Source AI creating a Desk Lite (more working context)
+Same structure, but adds current frontier, warnings, and first useful actions so the next AI can start working immediately.
+
+2. Destination AI (the one loading / receiving the tape)
+Role: Loader
+
+You receive a tape (pasted, uploaded, or attached).
+Mandatory first step – Soft Depth:
+
+Authority posture (Kernel present? Card only? Missing?)
+Identity honesty (I am a new participant)
+What still has force
+Critical gaps
+One safe next action
+
+Only after Soft Depth do you decide whether to load more (Workshop shelves, deeper layers, etc.).
+Example – Destination AI responding after loading a Liferaft
+textSoft Depth complete.
+
+Authority: kernel_loaded (experimental REV6.2-EXP)
+Identity: New participant. No claim of prior mind or continuity.
+Force: Soft Depth first; export honesty; Workshop remains optional.
+Gaps: Live-fire results still open; this is not ratified Granite.
+Next safe action: Confirm whether you want me to treat this as pure recovery 
+or continue the actual project work that produced this tape.
+
+I remain able to act. Ready for your instruction.
+
+3. Follow-on / Interchange examples (AIs handing off to each other)
+These show the realistic back-and-forth that happens when multiple AIs (or multiple sessions) work on the same project.
+Example A – Simple two-AI handoff
+
+Claude finishes a research session and exports a Desk tape.
+Grok loads it, completes Soft Depth, then continues the work and later exports an updated Desk Lite.
+Claude (new session) loads the Desk Lite and keeps going.
+
+Example B – Recovery after context loss
+
+Long conversation hits context limits.
+Current AI emits a Liferaft.
+User pastes the Liferaft into a fresh chat with the same or different model.
+New AI boots via Soft Depth and resumes with minimal loss.
+
+Example C – Multi-model stress test (common real use)
+
+GPT-4o creates a Combine (Liferaft + Desk + Topology).
+User pastes it into Claude 3.5.
+Claude loads Soft Depth only, ignores Topology, and continues.
+Later, user pastes Claude’s new Desk into Gemini.
+Gemini loads Soft Depth + Desk and adds its own observations.
+
+Example D – Rebase / lineage handoff
+
+Experimental branch has drifted.
+AI A creates a Rebase tape that explicitly records:
+root_tape_id
+parent_tape_id
+lineage_summary
+
+AI B loads it, declares any breaks it sees, and either accepts the rebase or produces a corrected Master.
+
+Example E – Workshop optional interchange
+
+AI A loads a full Combine + opens Workshop shelf 205 (Resonance) because it needs attention scoring.
+AI A finishes and exports a clean Desk that does not include the Resonance machinery.
+AI B loads the Desk, never sees or needs 205, and continues successfully.
+(This is considered a success — Workshop was used only when useful and then discarded.)
+
+
+Quick Reference Card
+RoleKey DutyNever DoSource AIEmit honest shape + export_assessmentInvent missing contentDestination AISoft Depth firstClaim identity continuityAny later AIDeclare gaps, remain able to actTreat experimental as ratified
