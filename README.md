@@ -24,9 +24,11 @@ You can just ask it to make tapes -
     Desk
     Monument
     Combine (This combines the above into a single tape form)
-There are two 'extra' tapes you can request - 
+There are two 'extra' tapes you can request:-
+
     Topology
 And 
+    
     Architect
 
 Ideally, in your next AI - 
