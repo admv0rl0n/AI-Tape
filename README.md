@@ -247,6 +247,17 @@ Use the smallest shape that stays honest and useful:
 **Loader** may stop after Soft Depth.  
 **Writer**, when asked for a full shape, should fill slots or declare gaps — under-emission is not humility when the session held the content.
 
+Quick decision guide (in human terms)
+
+Situation,Best shape
+    “Just don’t let me die / get lost” ----------Liferaft
+    “Get me useful quickly” ---------------------Desk Lite
+    “I need to keep working on this”-------------Desk / Desk Full
+    “Preserve the history and why”  -------------Monument
+    “Give options at different depths” ----------Combine
+    “Show the connections and tensions” ---------Topology
+    “Hand over the thinking patterns”  ----------Architect
+
 ======================================
 1. Liferaft
 Purpose: “Just keep me alive and pointed in the right direction.”
