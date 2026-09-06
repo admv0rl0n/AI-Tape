@@ -7,6 +7,33 @@ Make tapes!
 Load tapes! 
 (Thats it!)
 
+================================================================================================================================
+Actual use:-
+Download - AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
+You have an AI. It may accept files by UI, but if not you can edit the file - select all - copy - paste into the AI text window.
+This loads the TAPE protocol. Your AI now 'understands' TAPE.
+
+You may be at the beginning, middle or end of your project. TAPE has little value for you if you are just starting out. 
+But once you have built, made, or invested some time - TAPE may offer you value.
+
+You can just ask it to make tapes - 
+Liferaft
+Desk Lite
+Desk
+Monument
+Combine (This combines the above into a single tape form)
+There are two 'extra' tapes you can request - 
+Topology
+And 
+Architect
+
+Ideally, in your next AI - 
+add or paste in AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
+Now either load the TAPE files you made to it, or if no file option - paste the TAPE contents into the AI text chat window. 
+You new AI will be able to start up and be upto speed on your project vastly better than from zero.. 
+
+=================================================================================================================================
+
 Blah Blah -- 
 We have tried to make this a global tool. Its very limited on 7B or lesser AI. Be warned. You may get it to stand but higher functions may be limited. 
 We see pretty good stuff in 13B and up. 26B works well. Your mileage may vary. 
@@ -78,8 +105,8 @@ I don't really have frontier models to test.
 In theory you can take your project and it lives daily in a Gemini26B model, you can 'TAPE' it and pass to a 300B model. Do meaningful work. TAPE it back to your daily model. You can keep core ethos, but gather useful work. 
     
 AI Tape in three layers
-Think of a tape like a bootable briefing pack, not a brain dump.
-text┌─────────────────────────────────────────┐
+Think of a tape like a bootable briefing pack, not a brain dump. We see 75-85% briefs in testing. Which is vastly better than zero.
+┌─────────────────────────────────────────┐
 │  WORKSHOP (100+)                        │  Optional tools — ignore = OK
 ├─────────────────────────────────────────┤
 │  PROJECT CONTINUITY                     │  What work continues
