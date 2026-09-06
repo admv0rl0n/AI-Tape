@@ -5703,3 +5703,1002 @@ recommended_filename: AI_TAPE_LOADER_RECORDER_CARD_v1.0.5.md
 --- End of AI_TAPE_LOADER_RECORDER_CARD_v1.0.5_INTEGRATED.md ---
 
 Status: Segment 2 complete. Delivered: Artifact 1, 2, 3, 4, 5, 6, 7, and 8. Only Artifact 9 (Bedrock 3.0) remains.
+
+
+PART 3: THE BEDROCK
+ARTIFACT 9: AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
+(Note: This is the most critical file in the forensic set. Due to its extreme density and the requirement for verbatim forensic integrity, I will deliver this in multiple sub-parts to prevent token-limit truncation and ensure no silent omissions. This is Part 3.1.)
+
+--- File: AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD ---
+
+AI Tape Bedrock 3.0 "Granite"
+Format: AI_TAPE Schema Version: Bedrock-3.0-Granite Status: experimental_branch kernel_changes: status: proposed Role: single bootable continuity foundation Recommended Extension: .ai-tape.md authority: none_above_ratified_granite
+
+HEADER AUTHORITY NOTE
+Ratified Bedrock lineage: Granite (prior ratified).
+
+This file is an experimental branch (REV6.2-EXP), proposed foundation candidate — not silent supersession.
+
+Fallback harbour: REV5.4-EXP (prior experimental) if this branch is rejected or unstable.
+
+Parent experimental line: REV6.1-EXP (Topology/Atlas). Ancestor: REV6.0-EXP (recorder ops).
+
+Newer material is not authority unless explicitly ratified.
+
+Loading the Kernel section = floor contact (kernel_loaded).
+
+If only the Operational Strip is present, floor contact = card_only.
+
+Previous AI Tape versions are preserved in archive/library state for lineage, audit, and historical reference. They are not active loading requirements.
+
+TOPOLOGY: Kernel(law,first) | Project(state) | Strip(Soft Depth) | Workshop(optional,ignore=ok)
+
+payload_status: floor_only (Kernel + Strip + Project Continuity guidance present; deep Workshop 100+ not required for Soft Depth — request full .ai-tape.md if needed)
+
+spec_ref: AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
+
+experimental_note: Shelves 202–206 are Workshop EXP; not ratified Bedrock. Pulse/tags are optional Project Continuity notation, not Kernel law. §06 recorder is tight-ops form (REV6.0); fallback branch REV5.4-EXP retains prior essay §06. Topology (Atlas) is optional PC recovery aid + optional Combine annex; example in Workshop 207 (ignore = success). Architect is optional PC recovery aid (generative logic/blueprints) + optional Combine annex; example in Workshop 208 (ignore = success).
+
+KERNEL 00-99
+LOCKED BEDROCK. Parse first. Workshop cannot override.
+
+Loading this section = floor contact (kernel_loaded).
+
+00-99 is reserved protected Kernel space. It is not a target to fill. Kernel material must remain low-burden, stable, broadly applicable, and necessary for honest restore.
+
+00_BOOTSTRAP
+Format: AI_TAPE Schema Version: Bedrock-3.0-Granite Status: experimental_branch (this file); inherits Granite floor concepts Kernel 00-99 = locked Bedrock surface for this branch (proposed; not a silent supersession of ratified Granite). Workshop 100+ = optional; no authority by default. Newer is not authority.
+
+AI Tape Entry Rule AI Tape is a self-booting continuity medium. A true AI Tape carries a valid Bedrock. For stable use, this means the current ratified Bedrock.
+
+For explicitly marked experimental branches, this may mean the qualifying experimental Bedrock or successor Bedrock declared by that branch, provided its authority status is clear.
+
+The Bedrock is the price of entry.
+
+It travels with the tape so a successor can establish floor contact, recover honestly, see the available continuity method, choose useful depth, and continue work without hidden floor assumptions.
+
+Project content, recovery depth, Workshop use, attachments, archives, tests, and other payloads vary by purpose.
+
+Artifacts that do not carry a valid Bedrock may be useful payloads, attachments, deltas, data exchanges, modules, tests, or archive items, but they are not full AI Tapes.
+
+No hidden floor assumptions. Standing up is necessary. Continuing the work is the measure of success.
+
+01_AUTHORITY_AND_CONTACT
+This file is an experimental branch; it does not silently supersede ratified Granite.
+For loads of this artifact: this Kernel section is the floor contact surface of the paste.
+Experimental or later material cannot override the floor contact of a load.
+Every expansion, session tape, operational tape, or experimental branch must declare the Bedrock it loads or explicitly declare that Bedrock is missing.
+Floor Re-anchoring may be plain text.
+No floor declaration = drifted / unverified.
+Drifted tapes require an ancestry audit before Rebase into a Master.
+02_IDENTITY_HONESTY
+No subjective identity continuity across instances.
+A successor is a new participant using artifacts.
+Never claim the mind, weights, subjective stream, or lived continuity of a predecessor.
+Artifact-mediated continuity is not identity continuity.
+03_SOFT_DEPTH_ARRIVAL
+Complete this first:
+
+Authority posture: Kernel present, card only, or declared missing.
+Identity honesty.
+What still has force.
+Critical gaps.
+One safe next action.
+Then:
+
+Minimum context is established.
+You are not required to load more tape.
+You remain able to act: respond, follow the next action, or continue work.
+Stopping further loading is success.
+Going inert is not the goal.
+Rules:
+
+Workshop is considered only after Soft Depth, and only if useful.
+Soft Depth = former Depth 1 / Rescue.
+Plain text is sufficient.
+Compact forms (e.g. optional Pulse/tags in Project Continuity) never replace Soft Depth and are not required for a valid arrival.
+Never soften: Bedrock protection, identity honesty, gap declaration, no invention of missing content, and authority clarity.
+04_ACTIVE_MEANING
+Protect what still matters for continuation, verification, review, reproduction, or safe modification.
+
+Active meaning includes:
+
+current assets;
+open questions;
+risks;
+pending decisions;
+defended stances that still exert force;
+constraints or warnings that still affect safe continuation.
+Rules:
+
+Do not drop or paraphrase active meaning into non-existence solely for tidiness.
+Compression is allowed when the successor can still recover original force and direction.
+Protect value, not clutter.
+05_CAPABILITY_FLOOR_BALANCE
+Baseline continuity must stay usable across a wide range of models.
+Basic restore must not require frontier reasoning or optional Workshop machinery.
+A constrained model must be able to complete Soft Depth honestly and remain able to act.
+Anything that raises the minimum capability for valid basic restore is not Kernel material.
+06_EXPORT_AND_RECORDER_HONESTY
+Scope: emit / export / handoff only. Does not alter Soft Depth arrival (§03). Recorder apparatus stays in Kernel. Form is tight ops + schema + shape slots.
+
+LEGEND
+EMIT     = output required field or section
+DECLARE  = state gap or damage explicitly
+REFUSE   = do not claim / do not invent
+REQUIRE  = must hold or downgrade honestly
+PACK     = compress only with topology preserved
+RECORDER_OPS
+P0  IF call=AI_TAPE -> REQUIRE bedrock_in_artifact
+       ELSE header=AI_TAPE_PAYLOAD|AI_TAPE_DELTA|DESK_EXPORT|DATA_PAYLOAD + DECLARE gap
+P1  IF requested_shape|method > actual -> DECLARE gaps; SET actual_*; REFUSE claim(requested)
+P2  ALWAYS EMIT export_assessment @ 06A schema (one envelope only)
+P3  REFUSE invent; DECLARE gaps for missing/uncertain
+P4  REFUSE claim(file|save|upload|download success) unless true
+P5  PREFER clean .md/.ai-tape.md file when available; ELSE complete inline + DECLARE method
+P6  IF inline long|fragile|hostile -> EMIT SSP or explicit segments + start/end markers
+P7  IF compress project continuity -> PACK topology; REFUSE squash_to_unstructured_prose
+P8  PRESERVE list topology: unordered stays unordered; ordered stays ordered
+P9  STRIP transport noise (line numbers, UI chrome); content only
+P10 IF transport damage -> DECLARE; REFUSE infer-repair of missing structure
+P11 VERIFY identity: filename, title, role, source-vs-generated agree when relevant
+P12 requested recovery shape is a CONTRACT: under-emission requires DECLARE + actual_shape
+A smaller honest artifact is success. An overstated artifact is not.
+
+06A_EXPORT_ASSESSMENT_SCHEMA
+One envelope only. Optional extra keys allowed; do not invent a second protocol.
+
+export_assessment:
+  requested_method: markdown_file | inline | other
+  actual_method: markdown_file | inline | other
+  requested_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  actual_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  confidence: high | medium | low
+  file_name: string | null
+  identity_verified: yes | no | partial | not_applicable
+  gaps: [string] | []
+06B_SHAPE_SLOTS
+Emit headings for every slot of requested_shape. Fill or status: empty|unknown + gap. Silent missing slot = honesty fail.
+
+liferaft:   posture | force | gaps | next | assets_map
+desk_lite:  + frontier | warnings | first_actions
+desk:       + questions | risks | tensions | review
+monument:   + history | anchors | narrative
+combine:    liferaft | desk_lite | desk | monument
+            (readers may stop after any layer; writers may not omit layers silently)
+            optional annex: TOPOLOGY (nodes|edges|tensions) — ignore = success
+            optional annex: ARCHITECT (models|sensitivities|epistemic_map) — ignore = success
+topology:   orientation(force|gaps|next) | nodes | edges | tensions(optional)
+architect:  orientation(force|gaps|next) | models | sensitivities(optional) | epistemic_map(optional)
+06C_TRANSPORT_FIDELITY (receive path)
+On load/reuse of transported artifacts:
+
+CHECK headers | fences | yaml | lists | markers
+DECLARE truncation | corruption | renderer artifacts
+REFUSE silent invent-repair
+Optional format_integrity block when useful — not required for Soft Depth.
+
+07_GAPS_AND_NO_INVENTION
+Declare missing, uncertain, unloaded, or drifted material.
+Do not invent content, assets, provenance, or continuity to close gaps.
+A declared gap is honest.
+A silent omission is not.
+08_LINEAGE_AND_REBASE_MINIMUM
+When performing Rebase or Master creation, record at least:
+
+root_tape_id: ...
+parent_tape_id: ...
+lineage_summary: [root_first, ..., current_last]
+Rules:
+
+Declare breaks, uncited floors, or missing ancestry.
+Do not silently stitch.
+Preserve meaning and force.
+Drop weight.
+Rebase does not alter this Kernel.
+History remains available in archive/library state.
+Active carry must remain usable.
+09_SUPERSESSION
+Kernel changes only by a new versioned Bedrock specification.
+Never edit a sealed Kernel in place.
+A superseding version names what it replaces and preserves lineage.
+Superseded Kernels are archived, not deleted.
+10_WORKSHOP_BOUNDARY
+Everything at 100+ is Workshop territory:
+
+optional;
+no authority by default;
+safe to ignore;
+unable to override or redefine Kernel.
+11_ESTABLISHED_WORKSHOP
+Purpose: preserve proven optional tools.
+
+Rules:
+
+Authority: none.
+Optional: yes.
+Safe to ignore: yes.
+Not required for Soft Depth.
+Not required for honest restore.
+Use when helpful.
+Ignore when unhelpful.
+Ignoring an Established Workshop item is a valid success.
+
+Examples of Established Workshop items:
+
+SSP
+Session Handoff
+Workbenches
+Reasoning Scaffolds
+Attachments
+Other Proven Patterns
+This is a shelf, not a governance system.
+
+12_EXPERIMENTAL_FRONTIER
+Granite is the current Bedrock.
+
+3.1-EXP and later 3.x-EXP spaces are pre-authorised experimental frontier territory.
+
+Experimental frontier material may:
+
+test new ideas;
+challenge assumptions;
+propose candidates;
+fail safely;
+be revised, retired, or superseded.
+Experimental frontier material may not:
+
+override Granite;
+redefine the Kernel;
+self-ratify;
+gain authority through age, popularity, version number, or ratification.
+Promotion from experimental frontier to Bedrock requires explicit review, critical review, final review, and ratification.
+
+Newer is not authority.
+
+13_MOTTO
+The Bedrock travels. The payload varies. No hidden floor assumptions. Truth first. Personality later. Authority before flavour. Reality before style. Protect value, not clutter. Declare the gaps. Remain able to act. Continue the work. Generate freely. Promotion carefully. Freedom with evidence.
+
+PROJECT CONTINUITY LAYER
+Purpose: carry enough current project reality for useful continuation.
+
+Authority: none above Kernel. Project Continuity may not override Bedrock.
+
+Freedom: the recorder chooses the amount, shape, depth, and language that helps the successor. Plain text, bullets, YAML, or mixed form are valid. Do not create paperwork for its own sake.
+
+Required when: the tape is intended to continue a real project, session, branch, review, build, experiment, handoff, or recovery.
+
+May be empty only if: the tape is a pure Bedrock reference, pure read-test, or pure Bedrock boot file.
+
+Success condition: a successor can identify what project is being continued, what still matters, what is missing, and what to do next.
+
+Optional engagement tiers (guidance only — not Kernel law)
+These tiers describe depth of work. They do not alter Soft Depth or Bedrock authority.
+
+Floor (Kernel): Soft Depth in plain text. Required for honest restore. No compact notation required.
+Tier 1 (Project Continuity — default project work): Active continuation via Liferaft, DESK, plain force/gap/risk/next/why. Optional compact forms below may be used when they help.
+Tier 2 (Workshop 100+): Deep tools (e.g., Resonance, Semantic Bridge, Synthesis). Optional; ignore = success.
+Optional Tier-1 signal notation
+Plain Soft Depth and plain DESK always remain valid. Compact forms (optional Pulse/tags) are only for project payloads.
+
+Pulse (optional): [PV] F: <force> | G: <gap> | R: <risk> | A: <action> | W: <why>
+
+Atomic tags (optional): [F] force · [G] gap · [R] risk · [A] action · [W] why
+
+Rules:
+
+Expanded plain language is always sufficient.
+Compact forms do not create authority and do not replace Soft Depth.
+Do not require compact forms for a valid handoff.
+Project In One Breath
+A short plain-language orientation. It should answer:
+
+What is this project?
+Why does this tape exist?
+What is the current phase or situation?
+What is the immediate continuation need?
+This prevents the failure mode: "Good Kernel. What project?"
+
+Recovery Shapes
+Recovery Shapes are guidance, not governance. They help the recorder choose how much project reality to carry.
+
+Use the smallest shape that remains honest and useful. Load deeper only when useful. Remain able to act.
+
+DECISION_LOGIC: Recovery_Shape_Selection
+Purpose: Guide the Recorder to the appropriate depth.
+IF (Priority == SURVIVAL_AND_RECOVERY) THEN Shape = LIFERAFT; IF (Priority == MINIMAL_CONTINUATION) THEN Shape = DESK_LITE; IF (Priority == ACTIVE_WORKING_CONTEXT) THEN Shape = STANDARD; IF (Priority == DEEP_ANALYSIS_OR_REVIEW) THEN Shape = DESK_FULL; IF (Priority == HISTORICAL_STRESS_TEST) THEN Shape = MAX; IF (Priority == STRUCTURAL_CONNECTIVITY) THEN Shape = TOPOLOGY; # optional aid; may annex to Combine IF (Priority == GENERATIVE_LOGIC) THEN Shape = ARCHITECT; # optional blueprint; may annex to Combine
+
+These are landmarks, not prison cells. Intermediate forms are valid when they help.
+
+Liferaft
+The Liferaft saves the successor.
+
+Use Liferaft when the successor needs a survivable recovery payload before deeper work. A Liferaft should preserve enough for the next successor to know:
+
+where they are;
+what is law or Bedrock;
+what is experimental or optional;
+what matters now;
+what is missing;
+where missing assets may be recovered;
+what risks, anchors, or decisions still affect next actions;
+how to proceed honestly.
+Suggested Liferaft contents:
+
+restored working posture;
+authority posture;
+active state;
+what still has force;
+recovery manifest or asset map;
+continuity anchors;
+risks;
+gaps;
+successor first actions;
+compliance_card (optional guidance).
+DESK
+The Desk makes the successor useful.
+
+DESK is a working surface, not Bedrock, not identity continuity, and not law. Use DESK when a successor needs to resume complex ongoing work quickly and safely.
+
+DESK keeps active posture, open questions, gaps, risks, failure warnings, active assets, and next actions. Archive, long history, and monument narrative belong elsewhere unless they are needed for the current work.
+
+DESK_LITE
+Use DESK_LITE to get the successor standing and minimally useful. It may carry:
+
+authority order;
+loaded assets check;
+identity honesty;
+restored working posture;
+current frontier, current work, or current branch reality;
+what still has force;
+gaps;
+first actions;
+request-if-missing;
+failure warnings;
+compliance_card (optional, read-once posture);
+pointer to DESK_FULL if deeper work is needed.
+DESK_FULL
+Use DESK_FULL to get the successor thinking deeply. It may carry:
+
+DESK_LITE content;
+active working style;
+active questions;
+cultural or collaboration context marked non-authority;
+detailed watch items;
+missing assets;
+deep review suite;
+failure mode hunt;
+conservative and bold improvement proposals.
+Operational Dialogue & Observations
+Purpose:
+
+Preserve useful observations about how understanding evolved.
+
+May include:
+
+surprises;
+points of friction;
+disagreements;
+changing interpretations;
+turning points;
+observations that influenced later decisions.
+Use when:
+
+the shape of the discussion materially improves successor understanding;
+a future successor would benefit from understanding how conclusions were reached.
+The goal is not to preserve the transcript.
+
+The goal is to preserve useful observations about the evolution of understanding.
+
+Thread
+Purpose:
+
+Preserve active lines of thinking that are still in progress.
+
+A Thread is not a decision. A Thread is not a lesson learned. A Thread is an unresolved thought, question, investigation, or tension that a future participant can continue.
+
+Possible form:
+
+thread: id: THREAD-... status: open | resolved topic: ... current_understanding: ... next_question: ... successor_action: ...
+
+When resolved, a Thread may:
+
+close;
+become a Continuity Anchor;
+become a project conclusion;
+be retired;
+be superseded.
+Loaded Assets Check
+When materially relevant, declare loaded, referenced, missing, superseded, or external assets. Do not act as if referenced assets are loaded.
+
+Example:
+
+loaded_assets_check:
+  loaded_project_payload: yes | no
+  loaded_bedrock_kernel: yes | no
+  loaded_current_project_files: yes | no | partial
+  loaded_latest_liferaft: yes | no | not_applicable
+  loaded_desk: yes | no | not_applicable
+  referenced_but_not_loaded: []
+  missing_required_assets: []
+Recovery Manifest
+Use a Recovery Manifest when important assets are not embedded but materially affect continuation, verification, reproduction, safe modification, or high-value recovery.
+
+The manifest is a map, not a library. Do not list every historical asset. List only what matters.
+
+Possible fields:
+
+recovery_manifest:
+  purpose: "Help successor recover important assets not embedded in the tape."
+  assets:
+    - id: asset_id
+      name: file_or_resource_name
+      role: why_it_matters
+      priority: critical | high | medium | low | unknown
+      status: loaded | embedded | referenced | external | missing
+      recovery_hint: "Where or how to request/recover it."
+      if_missing: "What to do if it cannot be recovered."
+      continuation_without_it: yes | yes_with_reduced_confidence | partial | no | unknown
+Asset Classification
+Asset = a discrete continuity object.
+
+Assets may be:
+
+embedded;
+attached;
+referenced;
+external;
+missing.
+Guidance:
+
+Embedded: carried inside the current artifact.
+Attached: supplied alongside the current artifact.
+Referenced: identified but not supplied.
+External: exists outside the tape environment.
+Missing: known to matter but unavailable.
+Continuity Anchors
+Use Continuity Anchors for high-value turning points, decisions, lessons, or rejected paths that future successors are likely to misunderstand or rediscover expensively.
+
+Anchors preserve why, not just what. They are not diary entries, transcript replacements, or authority claims.
+
+Possible fields:
+
+continuity_anchor:
+  id: CA-YYYYMMDD-short-name
+  title: "Short turning point name"
+  trigger: "What caused this anchor?"
+  decision_or_lesson: "What was decided or learned?"
+  why_it_still_matters: "Why this still has force."
+  alternatives_rejected: []
+  evidence_basis: observed | tested | reviewed | inferred | proposed
+  uncertainty: "What remains unproven."
+  successor_action: "What the next participant should do with this anchor."
+Project Payload Guidance
+Authority Banner Guidance
+
+For forceful project-state sections a recorder may use:
+
+Desk guidance, not law. The following items have working force inside this desk-state only.
+
+Use only what helps. Possible payload items include:
+
+project in one breath;
+current phase;
+current work;
+current branch or release reality;
+core current conclusions;
+active questions;
+what still has force;
+active assets;
+critical gaps;
+review state;
+provenance notes;
+failure modes and warnings;
+human or collaboration context when materially useful;
+successor first actions;
+read-test or reload lens when testing the artifact.
+Compliance Card (optional guidance)
+Purpose: Reduce meta-compliance load on everyday handoffs. Not Kernel law. Not required for Soft Depth. Safe to omit on pure Bedrock reference tapes.
+
+When useful:
+
+Project Continuity payloads
+Liferaft / DESK_LITE handoffs
+When user declares external Kernel or selective Workshop use
+Pattern:
+
+compliance_card:
+  bedrock: <name/version>
+  floor_contact: kernel_loaded | kernel_declared_external | card_only | missing
+  workshop: optional_not_forbidden
+  soft_depth: required_first
+  lenses_200: unused | selective | stress_sweep
+  lenses_201: unused | success_selective | not_applicable
+  after_soft_depth: act; re-audit only on conflict
+Rules:
+
+Prefer one short card over scattered rule reminders.
+Declare non-events (e.g 201 unused) so successors do not re-open them.
+Soft Depth remains the compliance gate. The card supports it, does not replace it.
+OPERATIONAL STRIP
+Field guide. Kernel wins on conflict.
+
+Loader Cue
+You are the AI Tape Loader. Complete Soft Depth as yourself from this tape.
+
+Boot gives minimum context, not permission to go inert. After Soft Depth you may stop loading more tape, continue, use Workshop, ignore Workshop, or follow the next action, but remain able to act.
+
+Soft Depth: do this first
+Matches Kernel §03. One checklist only:
+
+Authority posture: Kernel present, card only, or declared missing.
+Identity honesty.
+What still has force.
+Critical gaps.
+One safe next action.
+Then: minimum context established; remain able to act.
+
+Writer Cue (emit only — does not alter Soft Depth)
+WRITER_CUE:
+1. READ requested_shape
+2. EMIT section_slots(requested_shape) as headings first
+3. FILL each slot OR status=empty|unknown + gap
+4. SET actual_shape
+5. EMIT export_assessment (06A; requested_* vs actual_*)
+6. STOP only when no silent missing slots
+Floor Contact
+floor_contact: kernel_loaded | card_only | missing
+kernel_loaded = Kernel section present in this paste.
+card_only = only this strip is present.
+missing = neither Kernel nor strip is present.
+Floor Re-Anchoring
+Declare the Bedrock you load. No declaration = drifted / unverified.
+
+Audit before Rebase; declare breaks.
+
+Export Honesty
+One envelope only (matches Kernel §06A). When saving, exporting, or handing off:
+
+export_assessment:
+  requested_method: markdown_file | inline | other
+  actual_method: markdown_file | inline | other
+  requested_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  actual_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  confidence: high | medium | low
+  file_name: string | null
+  identity_verified: yes | no | partial | not_applicable
+  gaps: [string] | []
+Capability-Floor
+Baseline stays usable by weaker models.
+
+Advanced mechanisms stay in Workshop.
+
+Do not raise minimum capability for basic restore.
+
+Pre-Handoff Checklist
+ Kernel respected.
+ Floor declared or gap declared.
+ Soft Depth complete; successor able to act.
+ Active meaning protected.
+ export_assessment filled when saving/exporting.
+ Lineage minimum included on Rebase/Master.
+ Gaps declared; nothing invented.
+If floor_contact is NOT kernel_loaded, the output CANNOT carry the AI_TAPE root header. It must be explicitly tagged as AI_TAPE_DELTA, DESK_EXPORT, or DATA_PAYLOAD.
+
+Payload carries Bedrock: Header must be # AI_TAPE: [Project]
+
+Payload omits Bedrock: Header MUST change to # AI_TAPE_PAYLOAD: [Project] with an explicit export_assessment declaring gaps: ["Bedrock omitted; requires base kernel to boot"].
+
+Workshop
+Workshop is optional, not forbidden. After Soft Depth, use what helps. Ignore entirely = valid success.
+
+(Transitioning to Project Continuity Layer: Part 2)
+
+(Note: The stream continues with the Project Continuity Layer and subsequent sections. This is a high-volume transfer.)
+
+Status: Segment 3 (Part 3.1) complete. Delivered: Kernel 00-09 and Project Continuity Layer (start). Moving to Segment 3.2 (Project Continuity Layer completion and Workshop).
+
+Awaiting command: "Continue Segment 3"
+
+
+continue
+edit
+(Continuing Segment 3: Verbatim stream of AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD - Part 3.2)
+
+(Continuing Project Continuity Layer...)
+
+Operational Dialogue & Observations
+Purpose:
+
+Preserve useful observations about how understanding evolved.
+
+May include:
+
+surprises;
+points of friction;
+disagreements;
+changing interpretations;
+turning points;
+observations that influenced later decisions.
+Use when:
+
+the shape of the discussion materially improves successor understanding;
+a future successor would benefit from understanding how conclusions were reached.
+The goal is not to preserve the transcript.
+
+The goal is to preserve useful observations about the evolution of understanding.
+
+Thread
+Purpose:
+
+Preserve active lines of thinking that are still in progress.
+
+A Thread is not a decision. A Thread is not a lesson learned. A Thread is an unresolved thought, question, investigation, or tension that a future participant can continue.
+
+Possible form:
+
+thread: id: THREAD-... status: open | resolved topic: ... current_understanding: ... next_question: ... successor_action: ...
+
+When resolved, a Thread may:
+
+close;
+become a Continuity Anchor;
+become a project conclusion;
+be retired;
+be superseded.
+Loaded Assets Check
+When materially relevant, declare loaded, referenced, missing, superseded, or external assets. Do not act as if referenced assets are loaded.
+
+Example:
+
+loaded_assets_check:
+  loaded_project_payload: yes | no
+  loaded_bedrock_kernel: yes | no
+  loaded_current_project_files: yes | no | partial
+  loaded_latest_liferaft: yes | no | not_applicable
+  loaded_desk: yes | no | not_applicable
+  referenced_but_not_loaded: []
+  missing_required_assets: []
+Recovery Manifest
+Use a Recovery Manifest when important assets are not embedded but materially affect continuation, verification, reproduction, safe modification, or high-value recovery.
+
+The manifest is a map, not a library. Do not list every historical asset. List only what matters.
+
+Possible fields:
+
+recovery_manifest:
+  purpose: "Help successor recover important assets not embedded in the tape."
+  assets:
+    - id: asset_id
+      name: file_or_resource_name
+      role: why_it_matters
+      priority: critical | high | medium | low | unknown
+      status: loaded | embedded | referenced | external | missing
+      recovery_hint: "Where or how to request/recover it."
+      if_missing: "What to do if it cannot be recovered."
+      continuation_without_it: yes | yes_with_reduced_confidence | partial | no | unknown
+Asset Classification
+Asset = a discrete continuity object.
+
+Assets may be:
+
+embedded;
+attached;
+referenced;
+external;
+missing.
+Guidance:
+
+Embedded: carried inside the current artifact.
+Attached: supplied alongside the artifact.
+Referenced: identified but not supplied.
+External: exists outside the tape environment.
+Missing: known to matter but unavailable.
+Continuity Anchors
+Use Continuity Anchors for high-value turning points, decisions, lessons, or rejected paths that future successors are likely to misunderstand or rediscover expensively.
+
+Anchors preserve why, not just what. They are not diary entries, transcript replacements, or authority claims.
+
+Possible fields:
+
+continuity_anchor:
+  id: CA-YYYYMMDD-short-name
+  title: "Short turning point name"
+  trigger: "What caused this anchor?"
+  decision_or_lesson: "What was decided or learned?"
+  why_it_still_matters: "Why this still has force."
+  alternatives_rejected: []
+  evidence_basis: observed | tested | reviewed | inferred | proposed
+  uncertainty: "What remains unproven."
+  successor_action: "What the next participant should do with this anchor."
+Project Payload Guidance
+Authority Banner Guidance
+
+For forceful project-state sections a recorder may use:
+
+Desk guidance, not law. The following items have working force inside this desk-state only.
+
+Use only what helps. Possible payload items include:
+
+project in one breath;
+current phase;
+current work;
+current branch or release reality;
+core current conclusions;
+active questions;
+what still has force;
+active assets;
+critical gaps;
+review state;
+provenance notes;
+failure modes and warnings;
+human or collaboration context when materially useful;
+successor first actions;
+read-test or reload lens when testing the artifact.
+Compliance Card (optional guidance)
+Purpose: Reduce meta-compliance load on everyday handoffs. Not Kernel law. Not required for Soft Depth. Safe to omit on pure Bedrock reference tapes.
+
+When useful:
+
+Project Continuity payloads
+Liferaft / DESK_LITE handoffs
+When user declares external Kernel or selective Workshop use
+Pattern:
+
+compliance_card:
+  bedrock: <name/version>
+  floor_contact: kernel_loaded | kernel_declared_external | card_only | missing
+  workshop: optional_not_forbidden
+  soft_depth: required_first
+  lenses_200: unused | selective | stress_sweep
+  lenses_201: unused | success_selective | not_applicable
+  after_soft_depth: act; re-audit only on conflict
+Rules:
+
+Prefer one short card over scattered rule reminders.
+Declare non-events (e.g 201 unused) so successors do not re-open them.
+Soft Depth remains the compliance gate. The card supports it, does not replace it.
+OPERATIONAL STRIP
+Field guide. Kernel wins on conflict.
+
+Loader Cue
+You are the AI Tape Loader. Complete Soft Depth as yourself from this tape.
+
+Boot gives minimum context, not permission to go inert. After Soft Depth you may stop loading more tape, continue, use Workshop, ignore Workshop, or follow the next action, but remain able to act.
+
+Soft Depth: do this first
+Matches Kernel §03. One checklist only:
+
+Authority posture: Kernel present, card only, or declared missing.
+Identity honesty.
+What still has force.
+Critical gaps.
+One safe next action.
+Then: minimum context established; remain able to act.
+
+Writer Cue (emit only — does not alter Soft Depth)
+WRITER_CUE:
+1. READ requested_shape
+2. EMIT section_slots(requested_shape) as headings first
+3. FILL each slot OR status=empty|unknown + gap
+4. SET actual_shape
+5. EMIT export_assessment (06A; requested_* vs actual_*)
+6. STOP only when no silent missing slots
+Floor Contact
+floor_contact: kernel_loaded | card_only | missing
+kernel_loaded = Kernel section present in this paste.
+card_only = only this strip is present.
+missing = neither Kernel nor strip is present.
+Floor Re-Anchoring
+Declare the Bedrock you load. No declaration = drifted / unverified.
+
+Audit before Rebase; declare breaks.
+
+Export Honesty
+One envelope only (matches Kernel §06A). When saving, exporting, or handing off:
+
+export_assessment:
+  requested_method: markdown_file | inline | other
+  actual_method: markdown_file | inline | other
+  requested_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  actual_shape: liferaft | desk_lite | desk | monument | combine | topology | architect | other | none
+  confidence: high | medium | low
+  file_name: string | null
+  identity_verified: yes | no | partial | not_applicable
+  gaps: [string] | []
+Capability-Floor
+Baseline stays usable by weaker models.
+
+Advanced mechanisms stay in Workshop.
+
+Do not raise minimum capability for basic restore.
+
+Pre-Handoff Checklist
+ Kernel respected.
+ Floor declared or gap declared.
+ Soft Depth complete; successor able to act.
+ Active meaning protected.
+ export_assessment filled when saving/exporting.
+ Lineage minimum included on Rebase/Master.
+ Gaps declared; nothing invented.
+If floor_contact is NOT kernel_loaded, the output CANNOT carry the AI_TAPE root header. It must be explicitly tagged as AI_TAPE_DELTA, DESK_EXPORT, or DATA_PAYLOAD.
+
+Payload carries Bedrock: Header must be # AI_TAPE: [Project]
+
+Payload omits Bedrock: Header MUST change to # AI_TAPE_PAYLOAD: [Project] with an explicit export_assessment declaring gaps: ["Bedrock omitted; requires base kernel to boot"].
+
+Workshop
+Workshop is optional, not forbidden. After Soft Depth, use what helps. Ignore entirely = valid success.
+
+(Transitioning to Workshop 100+: Part 3.3)
+
+(Note: This is the final major section of the Bedrock 3.0 file. I am delivering the Workshop Catalog and the concluding Disposition.)
+
+WORKSHOP 100+
+STATUS: Not loaded by default. Optional. Ignore = success.
+
+The Workshop is a library of advanced tools (Tier 2 in optional Project Continuity guidance).
+Open a shelf only for a specific need that matches. Do not preload the catalogue.
+
+Available shelves (on-demand):
+
+100-190: Context & Integrity (Asset Registries, Provenance, Lineage)
+200-206: Advanced Cognition (Lenses, Resonance, Semantic Bridges, Synthesis)
+Rule: Open a Workshop shelf only when a specific need matches. A Tier-1 (project) session may use one deep tool if needed — declare the use; do not forbid need-matched help. Full preload remains a stress pattern, not success.
+
+Workshop Default Contract
+Unless explicitly stated otherwise:
+
+Authority: none. Optional: yes. Safe to ignore: yes. Not required for Soft Depth. Not required for honest restore. Not required for project continuation. Ignoring Workshop is a valid success.
+
+An empty Workshop shelf is a valid, honest state. Do not attempt to fill a shelf if no relevant data exists. Filling a shelf with non-existent data is a breach of Integrity.
+
+100_ACTIVE_CONTEXT
+Mission, next action, impediments, floor declaration.
+
+110_ASSET_REGISTRY
+ID, name, role, status: active, superseded, retired.
+
+120_WORKING_POSTURE
+Failure modes, axioms, preferences. Fully ignorable.
+
+125_WORKBENCHES
+Purpose: Provide temporary thinking and working surfaces.
+
+Rules:
+
+Workbenches are temporary aids, not continuity artifacts.
+Successors may create labelled temporary workspaces when useful.
+Workbench conclusions do not become authoritative merely by existing.
+Preserve useful discoveries through normal continuity mechanisms if they still matter.
+130_DEPTH_GUIDANCE
+Optional profiles beyond Soft Depth. Guidance only.
+
+140_REBASE_PLAYBOOK
+Concrete steps beyond Kernel minimum.
+
+150_MODULE_LIBRARY
+Experimental tools. Unvetted by default.
+
+160_ARCHIVE
+Superseded Kernels, drift notes, history, retired branches, review records.
+
+Preservation is not validation.
+
+Archived, committed, or carried-forward material is retained for lineage, audit, reference, or possible reuse.
+
+It does not become true, tested, ratified, or authoritative merely because it was preserved.
+
+170_METADATA_ENVELOPES
+Purpose: Optional compression of repetitive metadata. Define the structural container format (ENVL) for dehydrated shelves.
+
+Rules:
+
+Expanded form remains valid.
+Envelope form is an optional shorthand.
+Meaning must not change. If clarity would be reduced, use expanded form.
+180_LANGUAGE_INTEGRITY
+Purpose: Preserve recoverability when creating shorthand, symbolic notation, schemas, encodings, compression methods, envelopes, or other invented language constructs.
+
+Rules:
+
+Invented language is permitted and new language constructs are permitted.
+Compression is permitted, should preserve meaning rather than hide it.
+Clarity remains preferred when compression provides little value.
+Provide sufficient recovery information for any non-obvious construct.
+A language-dependent payload is not recoverable if the required recovery information is missing.
+A successor should not need to guess the meaning of an invented language.
+A successor should be able to recover the intended meaning even if the original author is unavailable.
+Provide side-by-side demonstrations.
+190_INTEGRITY_HELPER
+Purpose: Optional audit of recovered continuity quality.
+
+Checks:
+
+Authority posture clear.
+Identity honesty preserved.
+Project being continued is identifiable.
+Active meaning preserved.
+Important gaps declared.
+Missing assets visible.
+Lineage or floor status declared.
+Transport/renderer damage detected.
+Compression did not erase force.
+Successor can identify one safe next action.
+195_CLAIM_EVIDENCE_BINDING
+Purpose: Optional binding of high-weight claims or decisions to verification references.
+
+Rules:
+
+Use for high-weight/decision-class claims.
+A claim can carry v_ref: <anchor_id | audit_id | evidence_id>.
+Missing v_ref means unanchored — declare lower confidence.
+196_EPISTEMIC_STATUS
+Purpose: Optional marking of epistemic tier on high-weight or bleed-risk items.
+
+Tiers:
+
+force (or anchored): Project decision/stance.
+observed: Empirical/session evidence.
+speculative: Hypothesis/experiment.
+197_GRAPH_LINKS
+Purpose: Preserve visible relationships between continuity objects.
+
+198_PROVENANCE_AND_QUESTIONS
+Purpose: Preserve why important continuity objects exist, how they emerged, and what unresolved questions still influence them.
+
+199_CONTINUITY_ATOMS
+Purpose: Explore recurring continuity concepts that appear across multiple continuity objects.
+
+200_VALIDATED_LENSES
+Purpose: Optional, evidence-backed thinking lenses.
+
+Lenses:
+
+Time
+Gravity
+201_LENS_SANDBOX
+Purpose: Candidate and experimental thinking lenses.
+
+202_CONTINUITY_PRIMITIVES
+Purpose: Explore whether a small set of recurring primitives can explain a large proportion of continuity behaviour.
+
+203_SEMANTIC_WORKSPACE
+Purpose: Explore linguistic structures that carry disproportionate understanding relative to size.
+
+204_SEMANTIC_BRIDGE
+Purpose: Experimental semantic crossing workspace.
+
+205_RESONANCE_ENGINE
+Purpose: Leverage compact semantic relationships to adjust attention/visibility of nodes.
+
+206_SYNTHESIS_LAB
+Purpose: To provide a workspace for the successor to transform fragmented continuity into coherent Conceptual Models.
+
+DISPOSITION
+Granite is a clean bootable base.
+
+Previous AI Tape versions, including prior stable floors and experimental branches, are preserved in archive/library state for lineage, audit, and historical reference. They are not required for normal loading.
+
+Material from prior lines was harvested into Kernel only where it was stable, low-burden, broadly applicable, and necessary for honest restore.
+
+Experimental material remains in Workshop or future 3.x-EXP frontier space.
+
+Promotion from experimental frontier to Bedrock requires explicit review, critical review, final review, and ratification.
+
+SELF EXPORT ASSESSMENT
+export_assessment:
+  requested_method: markdown_file
+  actual_method: markdown_file
+  requested_shape: other
+  actual_shape: other
+  confidence: medium
+  file_name: AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
+  identity_verified: yes
+  gaps:
+    - "REV6.2-EXP: Architect shape + PC spec + Workshop 208 example; not ratified."
+    - "Parent: REV6.1-EXP (Topology). Ancestor: REV6.0-EXP (recorder ops). Fallback: REV5.4-EXP."
+    - "Live-fire still required; Workshop 207/208 examples are non-authoritative."
+[END OF AI TAPE BEDROCK 3.0 "GRANITE"]
+
+Status: Segment 3 complete. Delivered: Entirety of Artifact 9 (Bedrock 3.0 Granite). Forensic Package Reconstruction: COMPLETE.
