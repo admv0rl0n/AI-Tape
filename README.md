@@ -18,15 +18,16 @@ You may be at the beginning, middle or end of your project. TAPE has little valu
 But once you have built, made, or invested some time - TAPE may offer you value.
 
 You can just ask it to make tapes - 
-Liferaft
-Desk Lite
-Desk
-Monument
-Combine (This combines the above into a single tape form)
+
+    Liferaft
+    Desk Lite
+    Desk
+    Monument
+    Combine (This combines the above into a single tape form)
 There are two 'extra' tapes you can request - 
-Topology
+    Topology
 And 
-Architect
+    Architect
 
 Ideally, in your next AI - 
 add or paste in AI_Tape_Bedrock_3.0_Granite_REV6.2.EXP.MD
