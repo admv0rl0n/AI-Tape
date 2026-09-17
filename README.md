@@ -1,3 +1,12 @@
+There are different areas for Tape. 
+
+1.x was an original floor, 2 was an exploration that eventually needed correction - 
+The 3.0 line currently ends with 3.0 Rev 6.2
+That line got very heavy at 80+Kb and its still usable for larger hand overs - but it is large and heavy. 
+The 4.0 branch got started as a re-engineering job trying to gather all that can be gathered from 1.x, 2.x, 3.x - 
+
+And it I think is the correct tool to use moving forwards, unless you feel that your project might be better done with 3.0 Rev 6.2 - 
+
 Before all the crap below - 
 Simple usage. 
 YOUTUBE -- https://youtu.be/qpJUwZ_Ks68
