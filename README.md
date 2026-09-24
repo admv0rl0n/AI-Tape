@@ -1,5 +1,15 @@
 There are different areas for Tape. 
 
+I have continued down various paths. The problems are that AI is a pleasing liar - and AI Tape cannot save 100% of an AI instance. 
+                   ------------------------------------
+I think the most.. stable release is the 1.09 ratified. Its old, but was core engineering. 
+                   ------------------------------------
+
+2 was where we loaded up 2 without 1, and this created drift because 1 was... the floor.
+3 was an engineering try at bigger/better. Bigger better with LLMs is ... a difficult thing. 
+4 Was pared down back to core 3, with ore taken from 1, 2, 3.
+5 Was experimental in again trying to tool AI with semantic compression, topology, words, ideas. 
+
 1.x was an original floor, 2 was an exploration that eventually needed correction - 
 The 3.0 line currently ends with 3.0 Rev 6.2
 That line got very heavy at 80+Kb and its still usable for larger hand overs - but it is large and heavy. 
