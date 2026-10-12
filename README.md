@@ -1,19 +1,31 @@
 There are different areas for Tape. 
-
-I have continued down various paths. The problems are that AI is a pleasing liar - and AI Tape cannot save 100% of an AI instance. 
-                  
-                   
+I have continued down various paths. The problems are that AI is a pleasing liar - and AI Tape cannot save >100%< of an AI instance. 
+                                     
 I think the most.. 
 ------------------------------------
-stable release is the 7.0
+stable release is the 7.0 branch. There are stable best of breeds in each older branch too. 
 ------------------------------------
+You'll find 7.0g is current. 
+Test branch is 8.0rc4 in the 7 area. 
 
+In the long winding road - discoveries - 
+AI has a training tendency that will almost always surface where it truncates, summarieses, culls, chain saws out continuity. 
+AI generally also has an output window of 4k/8k tokens. This equates to 3000-6000 words, which is not a lot to make single file full bootable AI project handover 'tapes'. 
+The two challenges above are what every version of tape has faced and tried walking down many roads to try to find some working answers. 
+
+Generally the best of breed of each branch - 1,2,3,4,5,6,7,8 - all capably make a continution file that is good quality handover. The depth required is always the hard cliff edge. 
+We're variable from an 80% to a 93% handover file, depending on project and on things like project scale and depth. 
+Testing on 1B, 3B, 7B, and teenBs all generally failed. Continuity only really works when an AI is 'smart' enough to do it. 
+Although we framworked and scaffolded all we did, its become clear that the AI once intelligent enough can make a continuty file itself without any framework - but our tapes offer at least a consistent tooling 
+that might have a value, and a repeatable process may work better than freelancing. We've tested across grok, gemini, gemma, chatgpt, 365 copilot and azure copilot. We've not tested on the full frontier models - 
+but it should work.
                   
 1. was olde skool..
 2 was where we loaded up 2 without 1, and this created drift because 1 was... the floor.
 3 was an engineering try at bigger/better. Bigger better with LLMs is ... a difficult thing. 
 4 Was pared down back to core 3, with ore taken from 1, 2, 3.
 5 Was experimental in again trying to tool AI with semantic compression, topology, words, ideas. 
+6 was a language / holy grail hunt that worked - but failed. 
 
 1.x was an original floor, 2 was an exploration that eventually needed correction - 
 The 3.0 line currently ends with 3.0 Rev 6.2
